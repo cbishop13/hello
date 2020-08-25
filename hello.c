@@ -12,6 +12,8 @@
 
  printf("Collin Bishop/n");
  printf("Undecied/n")
+ printf("Jacob Samples/n");
+ printf("Undecided/n");
  
      return 0;
  }
